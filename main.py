@@ -8,7 +8,7 @@ import os
 # ==============================
 # YouTube API-sleutel en kanaal-ID
 API_KEY = "JOUW_YOUTUBE_API_SLEUTEL"
-CHANNEL_ID = "UC1WKyLZZ0BMe7iDQfiiSJ7g"
+CHANNEL_ID = "JOUW_YOUTUBE_CHANNEL_ID"
 
 # Azure Translator API
 AZURE_TRANSLATOR_KEY = "JOUW_AZURE_TRANSLATOR_SLEUTEL"
